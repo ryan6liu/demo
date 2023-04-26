@@ -1,0 +1,84 @@
+RS
+ALT
+TBIL
+DBIL
+IBIL
+TP
+ALB
+GLO
+AMG
+ALP
+GGT
+AST
+LDH
+ADA
+
+= cea
+Area BS 5.6
+ABET 11.2
+Bie Abel 3.3
+(B)42 ABET F 7.9
+Re 58.94
+Ae 35.1
+EEA 23.8
+APkth 1.5
+eit HSAs 93
+Seat is 14.3
+sara ss 16.3
+7 LAs Sas 167
+ArH AS Bs 12.6
+
+Baia Btu
+0-40 OU
+
+umol /L
+
+umol /L
+
+1.5--15 | umol/L
+
+60--80
+
+15--112
+
+8--40
+
+114--240
+
+4--24
+
+PDF Soi
+
+LE
+
+ba
+
+RS mA eal Bi
+
+ALT SARA 0--40 UA
+
+TBIL Abe K20 unol/
+
+DBIL zhi ateled 0--7 unol /L
+
+IBIL (alte ABST 1. 5-15 unol /L
+
+TP SEA 60--B0 BA
+
+ALB ASA 33-55 a
+
+GLO EA 20--30 8
+
+AIG Brkt 1, 5--2.5
+
+ALP HERS 15--112 IUA
+
+GGT SAKES AAS K50 UA
+
+AST fae B--40 A
+
+LDH FLA, 114-240 UA
+
+ADA adahiesk --24 W/L
+SwexcelVH+naze
+
